@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+acronym/__init__.py
+acronym/cli.py
+acronym_cli.egg-info/PKG-INFO
+acronym_cli.egg-info/SOURCES.txt
+acronym_cli.egg-info/dependency_links.txt
+acronym_cli.egg-info/entry_points.txt
+acronym_cli.egg-info/requires.txt
+acronym_cli.egg-info/top_level.txt
